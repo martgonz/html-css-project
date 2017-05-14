@@ -1,0 +1,39 @@
+h1{
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2.panel-title {
+  font-style: oblique;
+  font-size: 30px;
+}
+
+.aboutme h2 {
+  font-style: oblique;
+  border: 2px dotted blue;
+  padding: 6px;
+  margin: 12px;
+  background-color: yellow;
+}
+
+.aboutme li {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+
+.background h2 {
+  font-style: oblique;
+  border: 2px dotted green;
+  padding: 6px;
+  margin: 12px;
+  background-color: pink;
+}
+
+.background p {
+  font-size: 15px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
